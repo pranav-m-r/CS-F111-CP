@@ -1,0 +1,23 @@
+{
+  "test_cases":[
+    {   
+      "id":1,
+      "time_out":2,
+      "input":"1\n80\n",
+      "output":"Enter number '1' for pass/fail and '2' for grade\nEnter percentage: \nPASS\n"
+    },
+    {
+      "id":2,
+      "time_out":2,
+      "input":"2\n80\n",
+      "output":"Enter number '1' for pass/fail and '2' for grade\nEnter percentage: \nB\n"
+    },
+    {
+      "id":3,
+      "time_out":2,
+      "input":"2\n120\n",
+      "output":"Enter number '1' for pass/fail and '2' for grade\nEnter percentage: \nINVALID INPUT\n"
+    }
+
+  ]
+}
