@@ -1,0 +1,1 @@
+void Input(char target[]);

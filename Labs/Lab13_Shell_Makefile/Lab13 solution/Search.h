@@ -1,0 +1,1 @@
+int Count(char target[], FILE* ptr);
