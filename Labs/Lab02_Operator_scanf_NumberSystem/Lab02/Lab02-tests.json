@@ -1,0 +1,20 @@
+{
+  "test_cases":[
+    {   
+      "id":1,
+      "time_out":2,
+      "input":"15\n27\n48\n50\n45\n65\n",
+      "output":"Cost of Apples-50\nCost of Mangoes-90\nCost of Oranges-260\nTotal Cost-400\nRemaining Apples-3\nRemaining Mangoes-3\nRemaining Oranges-0\n"
+    },
+    {
+      "id":2,
+      "time_out":2,
+      "input":"47\n49\n31\n30\n20\n40\n",
+      "output":"Cost of Apples-90\nCost of Mangoes-80\nCost of Oranges-80\nTotal Cost-250\nRemaining Apples-11\nRemaining Mangoes-1\nRemaining Oranges-7\n"
+      
+
+
+    }
+
+  ]
+}
